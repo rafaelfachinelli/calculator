@@ -1,7 +1,6 @@
 <div align="center">
   <img src=".github/logo.svg" width="100px">
-  CALCULATOR
-  <h1>RFL Timer</h1>
+  <h1>Calculator</h1>
 </div>
 
 <p align="center"> 
