@@ -43,11 +43,11 @@
 ---
 ## :movie_camera: **Demo**
 
-<p align="center"><b> :computer: WEB DESKTOP </b></p>
+<p align="center"><b> :computer: DESKTOP </b></p>
 
 <p align="center"><kbd><img width="450" style="border-radius: 5px" height="250" alt="Calculator Desktop Demo" src=".github/demo-desktop-RFLTimer.gif"></kbd></p>
 
-<p align="center"><b> :iphone: WEB MOBILE </b></p>
+<p align="center"><b> :iphone: MOBILE </b></p>
 
 <p align="center"><kbd><img width="150" style="border-radius: 5px" height="250" alt="Calculator Mobile Demo" src=".github/demo-mobile-RFLTimer.gif"></kbd></p>
 
