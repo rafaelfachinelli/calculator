@@ -1,96 +1,98 @@
-<div align="center">
-  <img src=".github/banner.svg" width="250px">
-</div>
-
-<p align="center"> 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/rafaelfachinelli/calculator?style=for-the-badge&color=7f8c8d">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/calculator?style=for-the-badge&color=7f8c8d">
-  <a href="https://github.com/rafaelfachinelli">
-    <img alt="Developed by Rafael Fachinelli" src="https://img.shields.io/badge/developer-Rafael Fachinelli-%237519C1?style=for-the-badge&color=7f8c8d">
-  </a>
-  <img alt="Project License" src="https://img.shields.io/github/license/rafaelfachinelli/calculator?style=for-the-badge&color=7f8c8d"/>
-<p>
+<p align="center">
+  <img alt="Calculator" src=".github/banner.svg" width="400px"/>
+</p>
 
 <p align="center">
- <a href="#movie_camera-demo">Demo</a> •
- <a href="#computer-about">About</a> •
- <a href="#memo-guide">Guide</a> •
- <a href="#hammer-technologies">Technologies</a> •
- <a href="#boy-author">Author</a> •
- <a href="#page_facing_up-license">License</a>
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/rafaelfachinelli/calculator?color=3498db&style=for-the-badge">
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/calculator?color=3498db&style=for-the-badge">
+  <a href="https://rafaelfachinelli.com">
+    <img alt="Developed by Rafael Fachinelli" src="https://img.shields.io/badge/Developer-Rafael_Fachinelli-3498db?style=for-the-badge">
+  </a>
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-3498db?style=for-the-badge">
+</p>
+
+<p align="center">
+  <a href="https://rafaelfachinelli.github.io/calculator/">Live demo</a>
+</p>
+
+<p align="center">
+  <a href="#information_source-about">About</a> •
+  <a href="#memo-tasks">Tasks</a> •
+  <a href="#arrow_forward-run">Run</a> •
+  <a href="#hammer_and_wrench-technologies">Technologies</a> •
+  <a href="#boy-author">Author</a> •
+  <a href="#balance_scale-license">License</a>
 </p>
 
 ---
-## :movie_camera: **Demo**
 
-<p align="center"><b> :computer: DESKTOP </b></p>
+## :information_source: About
 
-<p align="center"><kbd><img width="450" style="border-radius: 5px" height="250" alt="Calculator Desktop Demo" src=".github/demo-desktop-RFLTimer.gif"></kbd></p>
+➗ A calculator in plain JavaScript. It handles the basic operations through the on-screen buttons and the keyboard (keys and Enter), built around a single factory function that wires the display and the events.
 
-<p align="center"><b> :iphone: MOBILE </b></p>
-
-<p align="center"><kbd><img width="150" style="border-radius: 5px" height="250" alt="Calculator Mobile Demo" src=".github/demo-mobile-RFLTimer.gif"></kbd></p>
+Built in 2020 to study JavaScript, the DOM and event handling.
 
 ---
-## :computer: About
 
-...
-
----
-## :memo: **Guide**
+## :memo: Tasks
 
 <div align="center">
 <details>
-<summary>Click to View</summary>
+<summary>Click to view</summary>
 
-|Status|Task|
+|State|Task|
 |:---:|:---|
-|||
+|:heavy_check_mark:|Calculator layout|
+|:heavy_check_mark:|Digits, operators, clear and delete buttons|
+|:heavy_check_mark:|Result calculation|
+|:heavy_check_mark:|Keyboard support (Enter calculates)|
 
 </details>
 </div>
 
 ---
-## :hammer: **Technologies**
 
-The following tools were used in the build of the project:
+## :arrow_forward: Run
+
+No build step. Open `index.html` in a browser, or see the [live demo](https://rafaelfachinelli.github.io/calculator/).
+
+---
+
+## :hammer_and_wrench: Technologies
 
 <div align="center">
 
-|WEB Responsive|
+|Web|
 |:---:|
-|[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)|
-|[CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)|
-|[JavaScript](https://www.ecma-international.org/publications/standards/Ecma-262.htm)|
+|[HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)|
+|[CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)|
+|[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|
 
 </div>
 
 ---
-## :boy: **Author**
+
+## :boy: Author
 
 <div align="center">
 
-<a href="https://github.com/rafaelfachinelli">
- <img src="https://github.com/rafaelfachinelli.png" width="100px;" alt="Foto de Perfil Rafael Fachinelli"/>
- <p><sub><b>Rafael Fachinelli</b></sub></p></a>
+<a href="https://rafaelfachinelli.com">
+  <img src="https://github.com/rafaelfachinelli.png" width="100px" alt="Rafael Fachinelli"/>
+  <br/>
+  <sub><b>Rafael Fachinelli</b></sub>
+</a>
 
+Tech Lead and software engineer. Get in touch!
 
-Developed with ❤️ by Rafael Fachinelli 👋🏽 Contact me!
-
-[![Linkedin Badge](https://img.shields.io/badge/-Rafael_Fachinelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelfachinelli/)](https://www.linkedin.com/in/rafaelfachinelli/)
-[![Github Badge](https://img.shields.io/badge/-rafaelfachinelli-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafaelfachinelli)](https://github.com/rafaelfachinelli)
-[![Itch.io Badge](https://img.shields.io/badge/-rafaelfachinelli-FA5C5C?style=flat-square&logo=itch.io&logoColor=white&link=https://rafael-fachinelli.itch.io/)](https://rafael-fachinelli.itch.io/)
-[![Outlook Badge](https://img.shields.io/badge/-rafael.fachinelli@fatec.sp.gov.br-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rafael.fachinelli@fatec.sp.gov.br)](mailto:rafael.fachinelli@fatec.sp.gov.br)
-
-</div>
-
----
-## :page_facing_up: **License**
-
-<div align="center">
-  
-[![License](https://github.com/rafaelfachinelli/rafaelfachinelli/blob/master/.github/license.svg)](./LICENSE)
+[![Portfolio](https://img.shields.io/badge/-rafaelfachinelli.com-3498db?style=flat-square&logo=googlechrome&logoColor=white)](https://rafaelfachinelli.com)
+[![LinkedIn](https://img.shields.io/badge/-Rafael_Fachinelli-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelfachinelli/)
+[![GitHub](https://img.shields.io/badge/-rafaelfachinelli-000?style=flat-square&logo=github&logoColor=white)](https://github.com/rafaelfachinelli)
+[![E-mail](https://img.shields.io/badge/-rafael.l.a.fachinelli@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rafael.l.a.fachinelli@gmail.com)
 
 </div>
 
 ---
+
+## :balance_scale: License
+
+This project is under the [MIT license](./LICENSE).
